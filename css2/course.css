@@ -1,0 +1,33 @@
+a{
+    text-decoration: none;
+}
+
+.srvice-item{
+    width: 1270px;
+    text-align: center;
+    margin-top: 49px;
+    padding: 34px 75px;
+    border: 20px solid rgba(0, 0, 0, 0.733);
+    margin-left: 25px;
+    align-items: center;
+    padding-right: 153px;
+    padding-left: 150px;
+}
+
+.srvice-item p{
+    display: inline-block;
+}
+
+.srvice-item button{
+    margin: 40px;
+}
+
+.srvice-item h1{
+    font-size: 110px;
+    color: rgb(0, 0, 0);
+}
+
+.nav-link.active{
+    margin-left: 30px;
+
+}

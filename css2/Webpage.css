@@ -1,0 +1,49 @@
+a{
+    text-decoration: none;
+}
+.full-wraper{
+    width: 100%;
+    clear: both;
+}
+.wraper{
+    width: 1100px;
+    margin: 0 auto ;
+}
+
+
+.logobox img{
+    padding:15px 0;
+    float: left;
+}
+
+.menu{
+    width: 960px;
+    text-align: center;
+    margin-top: 15px;
+}
+.menu a{
+    color: black;
+    padding: 10px;
+    font-size: 21px;
+}
+
+.banner-img{
+    background-image: url(../img2/Welcome\ To.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px 0;
+}
+
+.banner-text{
+    text-align: center;
+}
+
+.banner-text h1{
+    color: rgba(235, 228, 226, 0.905);
+}
+
+.nav-link.active{
+    margin-left: 30px;
+
+}
